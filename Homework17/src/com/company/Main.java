@@ -58,5 +58,8 @@ public class Main {
         System.out.println("USB ports: " + usb1.getPortID() + usb1.getPortType() + " | " + usb2.getPortID() + usb2.getPortType());
         System.out.println("Keyboard: " + "Simvols - " + keyboard.getSimvols() + keyboard.getAdditionalNumbersOnTheRight() + keyboard.getBacklightPresence());
         System.out.println("__________________________________________________________________________________________________");
+
     }
+
+
 }
